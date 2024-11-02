@@ -50,7 +50,7 @@ I'm a passionate developer with a keen interest in **Web Development**, **Open S
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhavesh-kapoor" target="_blank">
+  <a href="https://www.linkedin.com/in/bhavesh-kapoor-803773216/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Bhavesh--Kapoor-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:bhaveshkapoor09@gmail.com" target="_blank">
